@@ -2,7 +2,9 @@
 
 ublock origin filters to remove bad/shady/translated/spam urls from search engines results
 
-Go to the "Filter lists" tab, then in "custom" click "import", paste this URL `https://raw.githubusercontent.com/gmolveau/ublock-origin-search-filters/master/combined.txt` and click on "Apply changes".
+In ublock-origin, go to the "Filter lists" tab, then in "custom" click "import", paste this URL `https://raw.githubusercontent.com/gmolveau/ublock-origin-search-filters/master/combined.txt` and finally click on "Apply changes".
+
+`generate.sh` is a bash script to generate the custom filters (google, duckduckgo) from the urls.txt file.
 
 Inspired by :
 
