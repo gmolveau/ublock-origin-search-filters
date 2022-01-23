@@ -16,6 +16,7 @@
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codeflow.site/*
+*://codegrepper.com/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://coder-solution-jp.com/*
@@ -179,6 +180,7 @@ duckduckgo.*##[data-domain*="cndgn.com"]
 duckduckgo.*##[data-domain*="code-examples.net"]
 duckduckgo.*##[data-domain*="code.i-harness.com"]
 duckduckgo.*##[data-domain*="codeflow.site"]
+duckduckgo.*##[data-domain*="codegrepper.com"]
 duckduckgo.*##[data-domain*="codeguides.site"]
 duckduckgo.*##[data-domain*="codehero.jp"]
 duckduckgo.*##[data-domain*="coder-solution-jp.com"]
@@ -342,6 +344,7 @@ google.*##.g:has(a[href*="cndgn.com"])
 google.*##.g:has(a[href*="code-examples.net"])
 google.*##.g:has(a[href*="code.i-harness.com"])
 google.*##.g:has(a[href*="codeflow.site"])
+google.*##.g:has(a[href*="codegrepper.com"])
 google.*##.g:has(a[href*="codeguides.site"])
 google.*##.g:has(a[href*="codehero.jp"])
 google.*##.g:has(a[href*="coder-solution-jp.com"])
